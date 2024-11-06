@@ -13,6 +13,8 @@ nekoshackdev@github
        OS  :  Windows 11 x64
  Terminal  :  Windows Terminal
 Languages  :  Python, HTML, CSS
+      IDe  :  Vscode
+           :
 ```
 
 
