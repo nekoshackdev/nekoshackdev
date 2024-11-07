@@ -17,12 +17,10 @@ Languages  :  Python, HTML, CSS
            :
 ```
 
-
-
-
 ```zsh
-> 
+> discord
 ```
+[![Discord Presence](https://lanyard.cnrad.dev/api/609062607185510400)](https://discord.com/users/609062607185510400)
 <!--
 **nekoshackdev/nekoshackdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
